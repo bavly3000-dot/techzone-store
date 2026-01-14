@@ -2,8 +2,8 @@ const whatsappNumber = "201069067445"; // Your WhatsApp number with country code
 
 const products = [
   {
-    name: "Lenovo Legion 5",
-    price: "1200 EGP",
+    name: " cr7 shirt man united",
+    price: "200 EGP",
     image: "https://via.placeholder.com/200",
   },
   {
