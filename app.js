@@ -4,12 +4,12 @@ const products = [
   {
     name: " cr7 shirt man united",
     price: "200 EGP",
-    image: "https://via.placeholder.com/200",
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/ronaldo-united.jpg" alt="Cristiano Ronaldo Manchester United Shirt" style="width:200px;">
   },
   {
     name: "Logitech Gaming Mouse",
     price: "250 EGP",
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/ronaldo-united.jpg" alt="Cristiano Ronaldo Manchester United Shirt" style="width:200px;">
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/mouse1.jpg" alt="Logitech Gaming Mouse" style="width:200px;">
 ,
   },
   {
