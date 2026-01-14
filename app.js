@@ -9,7 +9,8 @@ const products = [
   {
     name: "Logitech Gaming Mouse",
     price: "250 EGP",
-    image: "https://via.placeholder.com/200",
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/ronaldo-united.jpg" alt="Cristiano Ronaldo Manchester United Shirt" style="width:200px;">
+,
   },
   {
     name: "Corsair Mechanical Keyboard",
